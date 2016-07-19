@@ -9,7 +9,7 @@ theme: '#0074D9'
 # of work experiences to show
 jobs: 3
 # of educational experiences to show
-schools: 1
+schools: 2
 # show 'References available' link in footer
 references: true
 # Remove theme color on print
